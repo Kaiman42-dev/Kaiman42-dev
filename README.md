@@ -89,4 +89,4 @@ Je construis des programmes de bout en bout, du C bas niveau (threads, mémoire,
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-salman.aziev%40outlook.fr-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:salman.aziev@outlook.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salman%20Aziev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-aziev-773a55159/)
