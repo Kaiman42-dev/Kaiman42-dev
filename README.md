@@ -4,8 +4,6 @@
 
 Je construis des programmes de bout en bout, du C bas niveau (threads, mémoire, algorithmique) jusqu'aux infrastructures conteneurisées et aux agents LLM. J'aime comprendre comment les choses fonctionnent sous le capot et les rendre fiables : isolation, sécurisation, tests et code typé.
 
-🎯 **Je recherche une alternance (1 à 2 ans) à partir de janvier 2027**, en développement, DevOps ou cybersécurité.
-
 ---
 
 ## 🛠️ Stack
